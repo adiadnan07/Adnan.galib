@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Adnan Galib | MIS Manager</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+      text-align: center;
+    }
+    .container {
+      max-width: 480px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    img.profile {
+      width: 160px;
+      height: 160px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid #4caf50;
+      margin-bottom: 16px;
+    }
+    h1 {
+      font-size: 26px;
+      margin: 10px 0 5px;
+    }
+    p.title {
+      font-size: 18px;
+      color: #666;
+      margin: 0 0 16px;
+    }
+    .bio {
+      font-size: 15px;
+      margin-bottom: 20px;
+      line-height: 1.5;
+    }
+    .contact, .social {
+      margin: 20px 0;
+    }
+    .contact a, .social a {
+      display: block;
+      margin: 6px 0;
+      text-decoration: none;
+      color: #0077cc;
+      font-weight: 500;
+    }
+    .vcard {
+      margin-top: 20px;
+    }
+    .vcard a {
+      display: inline-block;
+      padding: 10px 20px;
+      background: #4caf50;
+      color: white;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .footer {
+      font-size: 13px;
+      color: #aaa;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="/mnt/data/2025_02_15_22_35_IMG_9509.JPG" alt="Adnan Galib" class="profile" />
+    <h1>Adnan Galib</h1>
+    <p class="title">MIS Project Manager</p>
+
+    <div class="bio">
+      Experienced MIS Project Manager with deep expertise in ERP systems, data-driven decision-making, and managing technology projects from concept to completion.
+    </div>
+
+    <div class="contact">
+      <a href="tel:+8801330996675">📞 01330996675</a>
+      <a href="mailto:adnan.galib07@gmail.com">✉️ adnan.galib07@gmail.com</a>
+      <a href="https://wa.me/8801330996675" target="_blank">💬 WhatsApp</a>
+    </div>
+
+    <div class="social">
+      <a href="https://www.facebook.com/Adiadnan07/" target="_blank">🔵 Facebook</a>
+      <a href="https://www.linkedin.com/in/adnangalib/" target="_blank">🔗 LinkedIn</a>
+    </div>
+
+    <div class="vcard">
+      <a href="adnan_galib.vcf" download>📥 Download vCard</a>
+    </div>
+
+    <div class="footer">
+      © 2025 Adnan Galib. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
